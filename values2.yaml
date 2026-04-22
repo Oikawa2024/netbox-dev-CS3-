@@ -1077,6 +1077,7 @@ postgresql:
   auth:
     username: netbox
     database: netbox
+    password: netbox-db-password
 
 ## External database configuration
 ## @param externalDatabase.host Host of the existing database
